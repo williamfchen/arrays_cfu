@@ -16,3 +16,5 @@ weights.push(45.3)
 #add an element to the front of the array
 booleans.unshift(false)
 
+#Pipa is the second element and in index position 1 in the array dog_names
+dog_names[1]
